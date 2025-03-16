@@ -2,7 +2,7 @@
 
 
 // API Configuration
-const API_KEY = 'b9cfb1a798655c235698594be2c2a4ed'; // Replace with your OpenWeatherMap API key
+const API_KEY = 'b9cfb1a798655c235698594be2c2a4ed';
 const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const FORECAST_API_URL = 'https://api.openweathermap.org/data/2.5/forecast';
 const ICON_URL = 'https://openweathermap.org/img/wn/';
